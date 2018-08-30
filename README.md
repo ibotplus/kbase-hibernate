@@ -53,7 +53,6 @@
 2. 字段对应类型
  * 能够知道固定长度的字段避免用可变长度的类型
  * 序号类 Integer ， 1, 10, 11, 2, 3, 4...
- * 时间类 Timstamp 
  * 财务类数字 Decimal
  * 基本数据类型 int 和 Integer 的区别， 为什么Hibernate推荐映射为 Integer？
  * 表名和字段名大写
